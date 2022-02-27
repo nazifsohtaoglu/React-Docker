@@ -1,0 +1,63 @@
+{
+  "short_name": "Docker Deneme",
+  "name": "Docker Deneme",
+  "icons": [
+    
+    {
+      "src": "icons/72x72.jpeg",
+      "sizes": "86x72",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "icons/128x128.jpeg",
+      "sizes": "153x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "icons/144x144.jpeg",
+      "sizes": "172x144",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "icons/152x152.jpeg",
+      "sizes": "181x152",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "icons/192x192.jpeg",
+      "sizes": "229x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/256x256.jpeg",
+      "sizes": "256x256",
+      "type": "image/jpeg"
+    },
+    
+    {
+      "src": "icons/384x384.jpeg",
+      "sizes": "458x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "icons/512x512.jpeg",
+      "sizes": "611x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "icons/940x788.png",
+      "sizes": "940x788",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/maskeble.png",
+      "sizes": "546x546",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
